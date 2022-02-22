@@ -1,3 +1,5 @@
+[![Codemagic build status](https://api.codemagic.io/apps/6215203fff12cc04add11ee9/6215203fff12cc04add11ee8/status_badge.svg)](https://codemagic.io/apps/6215203fff12cc04add11ee9/6215203fff12cc04add11ee8/latest_build)
+
 # preach_record
 
 A new Flutter project.
